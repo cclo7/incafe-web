@@ -1,0 +1,3 @@
+export const REQUEST_MEALS = 'REQUEST_MEALS'
+export const RECEIVE_MEALS = 'RECEIVE_MEALS'
+export const SELECT_MEAL = 'SELECT_MEAL'
